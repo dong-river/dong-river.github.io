@@ -12,25 +12,29 @@ Education
 ======
 * B.A. in Mathematics, University of Pennsylvania, 2019--2023
 * M.S.E. in Data Science, University of Pennsylvania, 2021--2023
+* GPA: 3.9/4.0
+* Notable courses: Machine Learning, Computer Vision, Theory of Machine Learning, Game Theory, Probability Theory
 
 Work experience
 ======
 * Spring 2022: Applied Scientist Intern at Amazon
-  * 
+  * Worked on Amazon Help Search Question and Answering System to expand English IR model to multiligual IR model 
+  * Built data pipeline including scraping, annotation collection, data cleaning, data augmentation on millions of datapoints
+  * Improved MRR from 22% to 45% in the same runtime by using knowledge distillation on multilingual-BERT model
   * Mentor: Olive Qin
-  * Manager: Rajesh Kamma
+  * Manager: Rajesh Kamma [link](https://www.linkedin.com/in/rajesh-kamma-b1476837/)
 
 * Summer 2022: Machine Learning Engineer Intern at Roblox
-  * Github University
+  * Use username feature to improve bot detection 
+  * Implement a scalable text mining algorithm on Spark cluster that achieved 90%+ F1 score
+  * Implement Markov chain-based gibberish detection
   * Mentor: Derek Farren, Younes Abouelnagah
-  * Manager: Luke Fu
+  * Manager: Luke Fu [link](https://www.linkedin.com/in/luke-fu-93455a122/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python: Pytorch, HuggingFace, OpenCV, PySpark
+* Linux
+* Java
+* SQL
 
