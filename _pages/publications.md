@@ -1,16 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[New-Wiki Eval: An Evolving Wikipedia Multi-metric Evaluation for Large Language Models](http://academicpages.github.io/files/New_Wiki_Paper.pdf)
+# Yijiang Dong #, Joao Sedoc, Dean Foster, Lyle Ungar
