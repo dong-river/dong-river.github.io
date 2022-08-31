@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "River Yijiang Dong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Philadelphia, U.S."
   employer         :
   pubmed           : 

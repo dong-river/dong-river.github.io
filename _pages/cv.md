@@ -22,7 +22,7 @@ Work experience
   * Built data pipeline including scraping, annotation collection, data cleaning, data augmentation on millions of datapoints
   * Improved MRR from 22% to 45% in the same runtime by using knowledge distillation on multilingual-BERT model
   * Mentor: Olive Qin
-  * Manager: [Rajesh Kamma] (https://www.linkedin.com/in/rajesh-kamma-b1476837/)
+  * Manager: [Rajesh Kamma](https://www.linkedin.com/in/rajesh-kamma-b1476837/)
 
 * Summer 2022: Machine Learning Engineer Intern at Roblox
   * Use username feature to improve bot detection 
@@ -33,7 +33,6 @@ Work experience
   
 Skills
 ======
-* Python: Pytorch, HuggingFace, CUDA, OpenCV, PySpark, selenium, multiprocessing, regex
-* Linux tools: shell scripting, ssh, sbatch, tmux
+* Python: Pytorch, HuggingFace, CUDA, OpenCV, PySpark, Selenium, Multiprocessing, Regex
 * Big Data: Spark, SQL, Hive, Hadoop, Airflow, High Performance Computing(HPC)
-* Others: github version control, AWS, 
+* Others: Linux, Github, AWS, GCP
