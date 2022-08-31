@@ -22,19 +22,18 @@ Work experience
   * Built data pipeline including scraping, annotation collection, data cleaning, data augmentation on millions of datapoints
   * Improved MRR from 22% to 45% in the same runtime by using knowledge distillation on multilingual-BERT model
   * Mentor: Olive Qin
-  * Manager: Rajesh Kamma [link](https://www.linkedin.com/in/rajesh-kamma-b1476837/)
+  * Manager: [Rajesh Kamma] (https://www.linkedin.com/in/rajesh-kamma-b1476837/)
 
 * Summer 2022: Machine Learning Engineer Intern at Roblox
   * Use username feature to improve bot detection 
   * Implement a scalable text mining algorithm on Spark cluster that achieved 90%+ F1 score
   * Implement Markov chain-based gibberish detection
-  * Mentor: Derek Farren, Younes Abouelnagah
-  * Manager: Luke Fu [link](https://www.linkedin.com/in/luke-fu-93455a122/)
+  * Mentor: [Derek Farren](https://www.linkedin.com/in/derekfarren/), [Younes Abouelnagah](https://www.linkedin.com/in/younosnaga/)
+  * Manager: [Luke Fu](https://www.linkedin.com/in/luke-fu-93455a122/)
   
 Skills
 ======
-* Python: Pytorch, HuggingFace, OpenCV, PySpark
-* Linux
-* Java
-* SQL
-
+* Python: Pytorch, HuggingFace, CUDA, OpenCV, PySpark, selenium, multiprocessing, regex
+* Linux tools: shell scripting, ssh, sbatch, tmux
+* Big Data: Spark, SQL, Hive, Hadoop, Airflow, High Performance Computing(HPC)
+* Others: github version control, AWS, 
