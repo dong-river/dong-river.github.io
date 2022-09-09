@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* # Spring 2022: Applied Scientist Intern at Amazon #
+* Spring 2022: Applied Scientist Intern at Amazon
   * Worked on Amazon Help Search Q&A System to expand English IR model to multiligual IR model 
   * Built data pipeline including scraping, annotation collection, and data augmentation on millions of datapoints
   * Improved MRR from 22% to 45% with the same runtime by using knowledge distillation on multilingual-BERT model
   * Mentor: Olive Qin
   * Manager: [Rajesh Kamma](https://www.linkedin.com/in/rajesh-kamma-b1476837/)
 
-* # Summer 2022: Machine Learning Engineer Intern at Roblox #
+* Summer 2022: Machine Learning Engineer Intern at Roblox
   * Use username feature to improve bot detection 
   * Implement a scalable text mining algorithm on Spark cluster that achieved 90%+ F1 score
   * Implement Markov chain-based gibberish detection
