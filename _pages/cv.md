@@ -20,19 +20,20 @@ Work experience
 * Spring 2022: Applied Scientist Intern at Amazon
   * Worked on Amazon Help Search Q&A System to expand English IR model to multiligual IR model 
   * Built data pipeline including scraping, annotation collection, and data augmentation on millions of datapoints
-  * Improved MRR from 22% to 45% with the same runtime by using knowledge distillation on multilingual-BERT model
+  * Improved MRR from 22% to 45% with the same runtime by performing knowledge distillation on multilingual-BERT model
   * Mentor: Olive Qin
   * Manager: [Rajesh Kamma](https://www.linkedin.com/in/rajesh-kamma-b1476837/)
 
 * Summer 2022: Machine Learning Engineer Intern at Roblox
-  * Use username feature to improve bot detection 
-  * Implement a scalable text mining algorithm on Spark cluster that achieved 90%+ F1 score
-  * Implement Markov chain-based gibberish detection
+  * Worked on Account Security team to use username feature to improve bot detection
+  * Designed a scalable and distributed text mining algorithm that achieved 90%+ F1 score
+  * Implemented the algorithm and its data processing, hyperparameter tuning using Spark, SQL, Hive, Hadoop, Airflow, Kubeflow
+  * Implemented Markov chain-based gibberish detection
   * Mentor: [Derek Farren](https://www.linkedin.com/in/derekfarren/), [Younes Abouelnagah](https://www.linkedin.com/in/younosnaga/)
   * Manager: [Luke Fu](https://www.linkedin.com/in/luke-fu-93455a122/)
   
 Skills
 ======
 * Python: Pytorch, HuggingFace, CUDA, OpenCV, PySpark, Selenium, Multiprocessing, Regex
-* Big Data: Spark, SQL, Hive, Hadoop, Airflow, High Performance Computing(HPC)
-* Others: Linux, Github, AWS, GCP
+* Big Data: Spark, SQL, Hive, Hadoop, Airflow, HPC, Slurm
+* Others: Linux, Github (version control), AWS, GCP
