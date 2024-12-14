@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. student at University of Cambridge working on Natural Language Processing and Large Language Models (LLM). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home) and advised by [Dr. Ivan Vulic](https://sites.google.com/site/ivanvulic/). My current ressearch focus is building Personalized LLM Assistant, through personalized alignment, interactive learning, and Agents.
+I am a second-year Ph.D. student at the University of Cambridge, specializing in Natural Language Processing (NLP) and Large Language Models (LLMs). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home) and advised by [Dr. Ivan Vulic](https://sites.google.com/site/ivanvulic/). My current research focuses on developing Personalized LLM Assistants through personalized alignment, interactive learning, and agents.
 
-Previously, I received my undergraduate and master's degree from University of Pennsylvania, where I was advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I have also interned at Amazon, Roblox, and Sequoia Capital. 
+Previously, I earned my undergraduate and master’s degrees from the University of Pennsylvania, where I was advised by [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I have also interned at Amazon, Roblox, and Sequoia Capital. 
 
+---
 
 ### Publications
 
