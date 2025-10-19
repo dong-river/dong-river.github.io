@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at the University of Cambridge, specializing in Natural Language Processing (NLP) and Large Language Models (LLMs). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home) and advised by [Dr. Ivan Vulic](https://sites.google.com/site/ivanvulic/). My current research focuses on developing Personalized LLM Assistants through personalized alignment, interactive learning, and agents.
+I am a second-year NLP Ph.D. student at the University of Cambridge, [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home) and advised by [Dr. Ivan Vulic](https://sites.google.com/site/ivanvulic/). My current research focuses on developing Personalized LLM Assistants through studying personalized alignment, collaborative agents, and online user feedback. 
 
-(1) Personalized Alignment: Steering models to align with diverse global users. [ [PersonalizedJudge](https://aclanthology.org/2024.findings-emnlp.592.pdf) ] [ [Benchmark](https://aclanthology.org/2025.coling-main.752.pdf) ]  
-(2) Collaborative Agents: Training models to better interact and collaborate with humans, including agents that ask clarification questions at appropriate times and collaborate with users with different knowledge levels.  
-(3) Learning from User Feedback: Mining and leveraging explicit and implicit, naturally occurring user feedback (critiques, preferences, edits) to further align the model to a specific task or user at deployment time.
+**(1) Personalized Alignment:** Aligning models with diverse global users through personalized preference learning, reward modeling, and subjective reasoning.
+**(2) Collaborative Agents:** Training models to better interact and collaborate with humans, including agents that ask clarification questions at appropriate times and collaborate with users with different expertise.  
+**(3) Learning from User Feedback:** Leveraging naturally occurring explicit and implicit feedback (critiques, preferences, edits) to continually adapt models to specific users and tasks at deployment.
 
 Previously, I earned my undergraduate and master’s degrees from the University of Pennsylvania, where I was advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I have also interned at Amazon, Roblox, and Sequoia Capital. 
 
