@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year NLP Ph.D. student at the University of Cambridge, [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home) and advised by [Dr. Ivan Vulic](https://sites.google.com/site/ivanvulic/). My current research focuses on developing Personalized LLM Assistants through studying personalized alignment, collaborative agents, and online user feedback. 
+I am a third-year NLP Ph.D. student at the University of Cambridge, [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home) and advised by [Dr. Ivan Vulic](https://sites.google.com/site/ivanvulic/). My current research focuses on developing Personalized LLM Assistants through studying personalized alignment, collaborative agents, and self-evolution. 
 
 **(1) Personalized Alignment:** Aligning models with diverse global users through personalized preference learning, reward modeling, and subjective reasoning. \\
 **(2) Collaborative Agents:** Training models to better interact and collaborate with humans, including agents that ask clarification questions at appropriate times and collaborate with users with different backgrounds.  \\
