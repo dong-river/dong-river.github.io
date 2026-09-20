@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year NLP Ph.D. student at the University of Cambridge, [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home). My current research focuses on developing Personalized LLM Assistants through studying personalized alignment and collaborative agents.
+I am a third-year NLP Ph.D. student at the University of Cambridge, [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk). I am supervised by Professor [Nigel Collier](https://sites.google.com/site/nhcollier/home). My current research focuses on developing Personalized LLM Assistants through studying personalized alignment and human-AI collaboration.
 
 **(1) Personalized Alignment:** Aligning models with diverse global users through personalized preference learning, reward modeling, and subjective reasoning. \\
-**(2) Collaborative Agents:** Training models to better interact and collaborate with humans, including agents that ask clarification questions at appropriate times and collaborate with users with different backgrounds.
+**(2) Human-AI Collaboration:** Training models to better interact and collaborate with humans, including agents that ask clarification questions at appropriate times and collaborate with users with different backgrounds.
 
 Previously, I earned my undergraduate and master’s degrees from the University of Pennsylvania, where I was advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I have also interned at Amazon, Roblox, and Sequoia Capital. 
 
